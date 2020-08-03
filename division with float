@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main(){
+	float a=7,b=3,c;
+	c=a/b;
+	printf("%f",c);
+}
