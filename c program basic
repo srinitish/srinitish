@@ -1,0 +1,160 @@
+
+#include<stdio.h>
+void main(){
+	int a,b,c;
+	c=a+b;
+	scanf("%d",c);
+}
+
+
+#include<stdio.h>
+void main(){
+	int a,b,c;
+	scanf("%d",&a);
+	scanf("%d",&b);
+	scanf("%d",&c);
+	if(a>b){
+		if(a>c){
+			printf("%d is greater",a);
+		}
+		else(c>b);{
+			printf("%d is greater",c);
+		}
+	}
+	else{
+		printf("%d is greater",b);
+	}
+	
+}
+	
+	
+
+
+#include<stdio.h>
+void main(){
+	int a=5,b=10,c;
+	c=a*b;
+	printf("%d",c);
+}
+
+
+
+
+#include<stdio.h>
+ void main(){
+
+int a=5,b=10,c;
+c=b-a;
+printf( "%d",c);
+}
+
+
+
+#include<stdio.h>
+void main() {	
+printf("srinitish");
+}
+
+
+#include<stdio.h>
+void main(){
+
+int a=5,b=2,c;
+c=a+b;
+printf("%d",c);}
+
+
+#include<stdio.h>
+void main(){
+	int a;
+	scanf("%d",&a);
+	if(a%5==0){
+		printf("%d is divisible by 5",a);
+	}
+		else if(a%11==0){
+			printf("%d is divisible by 11",a);
+		}	
+		else{
+			printf("%d is not divisible by 5 and 11",a);
+		}	
+}
+
+
+
+#include<stdio.h>
+void main(){
+	float a=7,b=3,c;
+	c=a/b;
+	printf("%f",c);
+}
+
+
+#include<stdio.h>
+void main(){
+	int a=10,b=5,c;
+	c=a/b;
+	printf("%d",c);
+}
+
+
+#include<stdio.h>
+void main(){
+	int a;
+	scanf("%d",&a);
+	if(a%4==0){
+		printf("%d is leap year",a);
+	}
+	else{
+		printf("%d is not a leap year",a);
+	}
+}
+
+
+#include<stdio.h>
+void main(){
+    int a,b;
+	scanf("%d",&a);
+	scanf("%d",&b);
+	if(a>b){
+		printf("%d is greater than %d ",a,b);
+	}
+	else if(b>a){
+		printf("%d is grater than %d",b,a);
+	}
+	else{
+		printf("%d and %d are equal ",a,b);
+	}
+	
+	
+	
+}
+
+
+#include<stdio.h>
+void main(){
+	int a;
+	scanf("%d",&a);
+	if(a>0){
+		printf("%d is the positive number",a);
+	}
+	else if(a<0){
+		printf("%d is a negative number",a);
+	}
+	else{
+		printf("%d is equal to zero",a);
+	}
+	
+}
+
+
+#include<stdio.h>
+void main(){
+	int a;
+	scanf("%d",&a);
+	if(a%2==0){
+		printf("%d is a even number",a);
+	}
+	else{
+		printf("%d is a odd number",a);
+	}
+}
