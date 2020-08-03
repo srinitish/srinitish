@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+	int a=1,n,c=0;
+	scanf("%d",&n);
+	while(a<n){
+		c=c+a;
+		a++,
+	}
+	printf("%d",a);
+}
