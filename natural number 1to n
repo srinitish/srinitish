@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main(){
+	int a=1,n;
+	scanf("%d",&n);
+	while(a<n+1){
+	printf("%d\n",a);
+	a++;
+	}
+}
