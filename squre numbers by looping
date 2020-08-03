@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+	int n=1,a;
+	scanf("%d",&a);
+	while(n<a){
+		printf("%d=%d is the squre number\n",n,n*n);
+		n++;
+	}
+	
+}
