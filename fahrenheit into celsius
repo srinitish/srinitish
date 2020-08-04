@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+	int a,c,d;
+	float b=1.8;
+	scanf("%d",&a);
+	printf("%d is the fahrenheit",a);
+	c=a-32;
+	d=c/b;
+	printf("\n%d fahrenheit is equal to %d celsius",a,d);
+}
+	
+
