@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+	int a, c;
+	scanf("%d",&a);
+	printf("%d is the days",a);
+   c=a/365;
+    printf("\n%d days is approxmately to %d years ",a,c);
+}
