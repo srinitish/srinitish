@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main(){
+	int a,c;
+	scanf("%d",&a);
+	printf("%d is the kilometer",a);
+	c=a*1000;
+	printf("/n%dkm is equal %d meter",a,c);
+}
+	
+	
+   
