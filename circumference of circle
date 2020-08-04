@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+	int a,c;
+	float b=3.141;
+	scanf("%d",&a);
+	printf("%d is the radius",a);
+    printf("\n%d is the PAI",b);
+    c=2*b*a;
+    printf("\n%d is the circumference",c);
+}
