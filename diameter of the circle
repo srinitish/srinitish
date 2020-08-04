@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+	int a,c;
+	scanf("%d",&a);
+	printf("%d is the radius",a);
+	c=2*a;
+	printf("\n%d is the diameter of the cirlcle",c);
+}
