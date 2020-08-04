@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+	int a,b,c,d;
+	scanf("%d",&a);
+	printf("%d is the base",a);
+	scanf("%d",&b);
+    printf("\n%d is the heigh",b);
+    printf("\n area of triangle=1/2* base* height");
+    c=a*b;
+    d=c/2;
+    printf("\n%d is the area of the triangle",d);
+}
