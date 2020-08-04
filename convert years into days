@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+	int a, c;
+	scanf("%d",&a);
+	printf("%d is the year",a);
+   c=a*365;
+    printf("\n%d year is equal to %d days ",a,c);
+}
