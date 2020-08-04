@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+	int a,b,c;
+	scanf("%d",&a);
+	printf("%d is the lenth",a);
+	scanf("\n%d",&b);
+    printf("%d is the breath",b);
+	c=2*(a+b);
+	printf("\n%d is the perimeter of the rectangle",c);	
+}
