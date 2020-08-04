@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main(){
+	int a=1,b,c;
+	scanf("%d",&b);
+	while(a<21){
+		c=b*a;
+		printf("\n%d",c);
+		a++;
+	}
+	
+}
