@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main(){
+int a[4][3]={1,2,3,4,5,6,7,8,9,10,11,12};
+int b,c;
+for(b=0;b<4;b++){
+	for(c=0;c<3;c++){
+		printf("\t%d",a[b][c]);
+		}
+printf("\n")	;
+}
+}
