@@ -1,0 +1,40 @@
+#include<stdio.h>
+void main(){
+int a,b,c,d,e,f;
+printf("calculating total marks");
+printf("\nnow enter the mark of english");
+scanf("%d",&a);
+printf("\n now enter your tamil mark");
+scanf("%d",&b);
+printf("\n now enter your maths mark");
+scanf("%d",&c);
+printf("\n now enter your science mark");
+scanf("%d",&d);
+printf("\n now enter your social mark");
+scanf("%d",&e);
+f=a+b+c+d+e;
+if(f<501){
+	 if(f==500){
+	printf("\ncentuary in all subject!!!");
+	printf("\n%d is your mark keep it up !!",f);
+     }
+	else if(f>400){
+	printf("\n wow! you get a exelent mark welldone");
+	printf("\n your mark is %d",f);
+}
+
+else if (f>299){
+	printf("\n your mark is %d",f);
+	printf("\n your mark is average do well next time");
+}
+else if(f>0){
+printf("\n your mark is %d",f);
+printf("\n your mark is very low don't do it next time");
+}
+
+}
+else{
+	printf("\n is unvalid mark plese check it",f);
+}
+}
+
