@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+int a=10,b=6,*c;
+c=&a;
+printf(" address of a:%u",c);
+printf("\nvalue of a :%d",*c);
+}
