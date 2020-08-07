@@ -1,0 +1,37 @@
+#include<stdio.h>
+void main(){
+int a,b,c,d,e,f;
+printf("calculating total marks");
+printf("\nnow enter the mark of english");
+scanf("%d",&a);
+printf("\n now enter your tamil mark");
+scanf("%d",&b);
+printf("\n now enter your maths mark");
+scanf("%d",&c);
+printf("\n now enter your science mark");
+scanf("%d",&d);
+printf("\n now enter your social mark");
+scanf("%d",&e);
+f=a+b+c+d+e;
+if(f<501){
+	 if(f==500){
+	printf("\A grade \n you promoted to next class");
+     }
+	else if(f>400){
+	printf("\n B grade\n you promoted to next class");
+}
+
+else if (f>299){
+	printf("\n C grade \n you promoted to next class",f);
+
+}
+else if(f>0){
+printf("\n F grade \n you not promoted to next class",f);
+}
+
+}
+else{
+	printf("\n is unvalid mark plese check it",f);
+}
+}
+
