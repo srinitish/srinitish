@@ -1,0 +1,26 @@
+#include<stdio.h>
+void main(){
+	int a;
+	printf("PLESE ENTER ANY NUMBER BELOW 10001");
+	scanf("/n%d",&a);
+	if(a<10001){
+	if(a>9999){
+		printf("%d is the five digit number ",a);
+	}
+	else if(a>999){
+		printf("%d is four digit number",a);
+	}
+	else if(a>99){
+		printf("%d is the three digit number",a);
+	}
+	else if(a>9){
+		printf("%d is two digit number",a);
+	}
+	else{
+		printf("%d is one digit number",a);
+	}
+}
+else{
+printf("PLESE ENTER ANY NUMBER BELOW 10001");
+}
+}
