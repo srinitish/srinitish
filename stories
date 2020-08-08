@@ -1,0 +1,41 @@
+#include<stdio.h>
+void main(){
+
+{
+	int a;
+	printf("enter a number to read story ");
+	printf("\n wolf story: enter the number 159");
+	printf("\n rabit and the toties: enter the number 654");
+	printf("\n the clever crow: enter the number 357");
+	printf("\n lion and the rat: enter the number 666");
+	printf("\n bad friendship: enter the number 486");
+	printf("\n the crow and the wolf: enter the number 989");
+	scanf("%d",&a);
+
+	 if(a==159){
+			printf("Don't scream wolf, boy,� warned the villagers, �when there is no wolf!� They angrily went back down the hill.\n Later, the shepherd boy cried out once again, �Wolf! Wolf! The wolf is chasing the sheep!� To his amusement, /n he looked on as the villagers came running up the hill to scare the wolf away.");
+		}
+		else if(a==654)
+		{
+			printf("One day a rabbit was boasting about how fast he could run. He was laughing at the turtle for being so slow.\n Much to the rabbit's surprise, the turtle challenged him to a race. \nThe rabbit thought this was a good joke and accepted the challenge.\n they started the race the rabbit run fast but the turtle move slower\n rabit saw backward the toties is not there from his sight so the lazy rabbit plan to take rest\n but the rabbit sleep for long time so the turtle WON THE RACE!!");
+	}
+	else if(a==357)
+	{
+			printf("ONCE UPON A DAY \n there was a crow so hungry it need some water it searched for long time \n atlast it found a pot filled with water but it cannot able to drink water with his small nose \n so the clver crow picked the stone inside the pot so the water started to come up\n finally the crow dink the water and flew away");
+}
+else if(a==666)
+{
+			printf(" there were a rat try always to play with the lion\n one day when the lion is sleeping the rat play on the lion the lion get anger\n the lion shouted the rat the rat started to cry and ran away\n one day the hunter cautch the lion the lion shorted plese help me!! help me please!!/n the rat saw that and come soon and bit the net with his sharp teeth \n atlast the lion and rat become friend and started to play");
+}
+else if(a==486)
+{
+			printf("there were two friends goes into the forest to play \n they play with a smile and joyfull \n it become too dark they started to return back to the home \n at the time one bear come one friend climb on the another friend ask to help him. his friend did not respond him so the secound friend lie on the grass \n the bear come near to him and went away his friend  come down from the tree \n and ask what did the bear tell to you he told that the bear told to cut your friendship ");
+		}
+		else if(a==989)
+{
+			printf("onces there was a crow with a food on his mouth \n the wolf tell to sing a song to the crow \n the crow started to sing a song \n the food felt down the wolf eat the food");
+		}
+	}
+}
+
+	
