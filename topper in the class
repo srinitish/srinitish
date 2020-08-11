@@ -1,0 +1,38 @@
+#include<stdio.h>
+void main(){
+struct sutdents{
+	char name[20];
+	int addmition;
+	float avrage;
+};
+struct sutdents a,b,c;
+printf("enter the detail of the top three students in the class\n");
+printf("enter the detalil about first rank student\n");
+printf("enter the name of the student");
+scanf("%s",&a.name);
+printf("enter the addmition number of the student");
+scanf("%d",&a.addmition);
+printf("enter the average mark of the student");
+scanf("%f",&a.avrage);
+
+printf("\nenter the detalil about secound rank student\n");
+printf("enter the name of the student");
+scanf("%s",&b.name);
+printf("enter the addmition number of the student");
+scanf("%d",&b.addmition);
+printf("enter the average mark of the student");
+scanf("%f",&b.avrage);
+
+
+
+printf("\nenter the detalil about third rank student\n");
+printf("enter the name of the student");
+scanf("%s",&c.name);
+printf("enter the addmition number of the student");
+scanf("%d",&c.addmition);
+printf("enter the average mark of the student");
+scanf("%f",&c.avrage);
+printf("\n\nCLASS FIRST MARK STUDENT \n NAME: %s \n ADDMITION NUMBER:%d \n AVERAGE MARK: %f", a.name,a.addmition,a.avrage);
+printf("\n\nCLASS SECOUND MARK STUDENT \n NAME: %s \n ADDMITION NUMBER:%d \n AVERAGE MARK: %f", b.name,b.addmition,b.avrage);
+printf("\n\nCLASS THIRD MARK STUDENT \n NAME: %s \n ADDMITION NUMBER:%d \n AVERAGE MARK: %f", c.name,c.addmition,c.avrage);
+}
