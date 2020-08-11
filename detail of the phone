@@ -1,0 +1,28 @@
+#include<stdio.h>
+void main(){
+	struct mobile{
+		char model[50];
+		int  id;
+		int prize;
+	};
+	struct mobile a,b;
+	printf("print the detail of the android phone\n");
+	printf("type the model of the android phone\n");
+	scanf("%s",&a.model);
+	printf("type the id of the android phone\n");
+	scanf("%d",&a.id);
+	printf("type the prize of the android phone\n");
+	scanf("%d",&a.prize);
+
+	
+		printf("print the detail of the ios phone\n");
+	printf("type the model of the ios phone\n");
+	scanf("%s",&b.model);
+	printf("type the id of the ios phone\n");
+	scanf("%d",&b.id);
+	printf("type the prize of the ios phone\n");
+	scanf("%d",&b.prize);
+		printf("model name:%s\n model id:%d\n model prize:%d RS\n",a.model,a.id,a.prize);
+	printf("model name:%s\n model id:%d\n model prize:%d RS\n",b.model,b.id,b.prize);
+}
+
