@@ -1,0 +1,40 @@
+#include<stdio.h>
+void main(){
+	int a;
+	 printf("can we see your luck\n\n");
+	 printf("enter your fav number 1-10");
+	 scanf("\n%d",&a);
+	 if(a<11){
+	 	if(a>9){
+	 		printf("you will be in bad situtaion be carefull!!!");
+		 }
+		 else if(a>8){
+		 	printf("you will sucess soon be confidence");
+		 }
+		 else if(a>7){
+		 	printf("you will going despointed by your friend soon !!! ");
+		 }
+		 else if (a>6){
+		 	printf("you will have lot of money by many lucky offer $$$$");
+		 }
+		 else if(a>5){
+		 	printf("you will opitent in a very good job within this year$$$$ ");
+		 }
+		 else if (a>4){
+		 	printf("you are the best foolish in the world");
+		 }
+		 else if (a>3){
+		 	printf("be carefull");
+		 }
+		else if (a>2){
+		 	printf("you life will be happy throughout the year");
+		 }
+		 else if (a>1){
+		 printf("you are very sad through out the year");
+		 }
+		 
+	 }
+	 else{
+	 	printf("plese enter the value below 10");
+	 }
+}
