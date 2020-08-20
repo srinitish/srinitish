@@ -1,0 +1,37 @@
+#include<stdio.h>
+void main(){
+	struct student{
+		char name[20] ;
+		char address[50];
+		int number;
+		char fathername[30];
+		char mothername[30]; 
+	};
+	struct student a,b;
+	printf("ENTER THE THE DETAIL OF THE STUDENT\n\n");
+	printf("ENTER THE NAME OF THE STUDENT:");
+	scanf("%s",a.name);
+	printf("\nENTER THE ADDRESS OF THE STUDENT");
+	scanf("%s",a.address);
+		printf("\nENTER THE FATHER NAME OF THE STUDENT");
+	scanf("%s",a.fathername);
+		printf("\nENTER THE MOTHER NAME OF THE STUDENT");
+	scanf("%s",a.mothername);
+		printf("\nENTER THE PHONE NUMBER OF THE STUDENT");
+	scanf("%d",a.number);
+	
+		printf("ENTER THE THE DETAIL OF THE secound STUDENT\n\n");
+	printf("ENTER THE NAME OF THE STUDENT:");
+	scanf("%s",b.name);
+	printf("\nENTER THE ADDRESS OF THE STUDENT");
+	scanf("%s",b.address);
+		printf("\nENTER THE FATHER NAME OF THE STUDENT");
+	scanf("%s",b.fathername);
+		printf("\nENTER THE MOTHER NAME OF THE STUDENT");
+	scanf("%s",b.mothername);
+		printf("\nENTER THE PHONE NUMBER OF THE STUDENT");
+	scanf("%d",b.number);
+	printf("\n NAME:%s\nFATHER NAME:%s\nMOTHER NAME:%s\n PHONE NUMBER:%d\nADDRESS:%s\n \n",a.name,a.fathername,a.mothername,a.number,a.address);
+	printf("\n NAME:%s\nFATHER NAME:%s\nMOTHER NAME:%s\n PHONE NUMBER:%d\nADDRESS:%s\n \n",b.name,b.fathername,b.mothername,b.number,b.address);
+	
+}
