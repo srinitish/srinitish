@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+	int a=5,*p;
+	p=&a;
+	printf("the value of a=%d\n the adress of a=%d\n the value in the adress a=%d ",a,p,*p);
+	
+}
