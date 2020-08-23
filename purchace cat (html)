@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>srinitish</title>
+    </head>
+<body>
+    <div>
+        <header> the cat is the cutiest animal</header>
+    </div>
+       
+   
+    <h1>cat</h1>
+    <img src="https://www.thehappycatsite.com/wp-content/uploads/2017/06/cool.jpg" alt="ther was suppose to be an image"><br>
+  
+    <p>
+       <big><em> The <b> cat </b>The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is often referred to as the domestic cat to distinguish it from the wild members of the family.<br>[4] A cat can either be a house cat, a farm cat or a feral cat; the latter ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to hunt rodents. About 60 cat breeds are recognized by various cat registries.<br>[6]
+
+        The cat is similar in anatomy to the other felid species: it has a strong flexible body, quick reflexes, sharp teeth and retractable claws adapted to killing small prey. Its night vision and sense of smell are well developed. Cat communication includes vocalizations<br> like meowing, purring, trilling, hissing, growling and grunting as well as cat-specific body language. It is a solitary hunter but a social species. It can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small mammals. It is a predator that is most active at dawn and dusk.[7] It secretes and perceives pheromones.[8]<br></em>
+    </p>
+    <hr wridth="90%">
+    <h1>types of cats</h1>
+    <or>
+        <li> British Shorthair</li>
+        <li> Persian Cats</li>
+        <li>American Shorthair Cats</li>
+        <li>Scottish Fold Cats</li>
+        <li> Sphynx Cats</li>
+    </or>
+    <hr wridth="90%">
+    <h1><em> did you like to buy a cat !!!</em></h1>
+    <big>fill the the details . we will contact you</big>
+    <div id="reg-form">
+        <form >
+            <label for="first name"> FIRST NAME:</label>
+            <input type="text"name="first name"required>
+            
+            <label for="last name"> LAST NAME:</label>
+            <input type="text"name="last name"required>
+            <div>
+                <label for="gender">MALE</label>
+                <input type="radio"name="gender"value=choise1>
+                <label for="gender">FEMALE</label>
+                <input type="radio"name="gender"value=choise2>
+                <label for="gender">OTHER</label>
+                <input type="radio"name="gender"value=choise3>
+                
+            </div>
+            <div>
+                <label for="email">EMAIL ADDRESS:</label>
+                <input type="email"name="email"required>
+                <label for="pasward">PASWARD:</label>
+                <input type="pasward"name="pasward"required>
+            </div>
+            <div>
+                <label for="mounth">DATE OF BIRTH</label>
+                <select> 
+                <option value="0" selected disabled>month</option>
+                <option  name="jan">january</option> 
+                <option name="feb" >febuary</option> 
+                <option name="march" >march</option> 
+                <option name="april" >april</option> 
+                <option name="may" >may</option> 
+                <option name="jume" >june</option> 
+                <option name="july" >july</option> 
+                <option name="august" >august</option> 
+                <option name="sep" >september</option> 
+                <option name="oct" >october</option> 
+                <option name="nov" >november</option> 
+                <option name="dec" >december</option>
+                 </select>
+
+
+              
+                 <select> 
+                 <option value="0" selected disabled>date</option>
+                 <option  name="1">1</option> 
+                 <option name="2" >2</option> 
+                 <option name="3" >3</option> 
+                 <option name="4" >4</option> 
+                 <option name="5" >5</option> 
+                 <option name="6" >6</option> 
+                 <option name="7" >7</option> 
+                 <option name="8" >8</option> 
+                 <option name="9" >9</option> 
+                 <option name="11">10</option> 
+                 <option name="12">11</option> 
+                 <option name="13">13</option>
+                 <option name="14">14</option>
+                 <option name="15">15</option>
+                 <option name="16">16</option>
+                 <option name="17">17</option>
+                 <option name="18">18</option>
+                 <option name="19">19</option>
+                 <option name="20">20</option>
+                 <option name="21">21</option>
+                 <option name="22">22</option>
+                 <option name="23">23</option>
+                 <option name="24">24</option>
+                 <option name="25">25</option>
+                 <option name="26">26</option>
+                 <option name="27">27</option>
+                 <option name="28">28</option>
+                 <option name="29">29</option>
+                 <option name="30">30</option>
+                 <option name="31">31</option>
+                  </select>
+
+
+                
+                 <select> 
+                 <option value="0" selected disabled>year</option>
+                 <option name="1989">1989</option> 
+                 <option name="1990">1990</option> 
+                 <option name="1991">1991</option> 
+                 <option name="1992">1992</option> 
+                 <option name="1993">1993</option> 
+                 <option name="1994">1994</option> 
+                 <option name="1995">1995</option> 
+                 <option name="1996">1996</option> 
+                 <option name="1997">19967</option> 
+                 <option name="1998">1998</option> 
+                 <option name="1999">1999</option> 
+                 <option name="2000">2000</option>
+                 <option name="2001">2001</option>
+                 <option name="2002">2002</option>
+                 <option name="2003">2003</option>
+                 <option name="2004">2004</option>
+                 <option name="2005">2005</option>
+                 <option name="2006">2006</option>
+                 <option name="2007">2007</option>
+                 <option name="2008">2008</option>
+                 <option name="2009">2009</option>
+                 <option name="2010">2010</option>
+                 <option name="2011">2011</option>
+                 <option name="2012">2012</option>
+                 <option name="2013">2013</option>
+                 <option name="2014">2014</option>
+                 <option name="2015">2015</option>
+                 <option name="2016">2016</option>
+                 <option name="2017">2017</option>
+                 <option name="2018">2018</option>
+                 <option name="2019">2019</option>
+                 <option name="2020">2020</option>
+                  </select>
+            </div>
+            <div>
+                <h4>terms and conditions</h4>
+                <p>
+                    This section outlines our relationship with you. It includes a description of the Service,<br> defines our Agreement, and names your service provider. Key updates:
+                </p>
+                <ul>
+                   <li> Service Provider. Your service provider is now Google LLC. </li>
+                   <li>Policies. We have added a link to the Policy, Safety and Copyright Policies, and our Advertising on YouTube Policies,<br> which all form part of the Agreement. These are the policies that underpin our Community Guidelines,<br> and we wanted to make sure to call out this detail to you upfront in our Terms.</li>
+                   <li>Affiliates. To ensure you understand exactly who we mean when we talk about our group companies, we’ve included <br> a definition of our “Affiliates”, meaning the companies in the Alphabet corporate group.</li>
+                </ul>
+                <label for="agree">I agree all terms and conditions</label>
+                <input type="checkbox" name="agree">
+                
+                
+            </div>
+     
+            <div>
+                <a href="https://mycatshop.in/"><button type="submit">submit</button></a>
+            </div>
+
+        </form>
+    
+        </div>
+
+
+    
+    <h3>for more imformation click this image</h3>
+    <a href="https://www.google.com/search?q=about+cat&source=lmns&bih=625&biw=1280&hl=en&sa=X&ved=2ahUKEwjmgoDNzLDrAhWEFisKHQaTAHEQ_AUoAHoECAEQAA"><img src="https://thepetwiki.com/wp-content/uploads/300px-Tiffanie_cat.jpg"></a>
+<div>
+    <footer>save the cat</footer>
+</div>
+
+</body>
+    </html>
