@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>arul jothi supermarket</title>
+    </head>
+    <body>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaBcUblNKk9iyVRzwAV9ZtrJdLu-Z7kYT8Sg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaBcUblNKk9iyVRzwAV9ZtrJdLu-Z7kYT8Sg&usqp=CAU" wridth="500px"height="500px" alt=" there will be a aruljothi supermarket">
+        <Big><h1> ARUL JOTHI SUPERMARKET</h1></Big>
+        <p>A <b>supermarket</b> is a self-service shop offering a wide variety of food, beverages and household products, organized into sections.<br> It is larger and has a wider selection than earlier grocery stores, but is smaller and more limited in the range of merchandise than a hypermarket or big-box market.<br>
+
+            In everyday U.S. usage, however, "grocery store" is a synonym for supermarket,[1] and is not used to refer to other types of stores that sell groceries.[2][1]</p>
+            
+            
+            <p>The supermarket typically has aisles for meat, fresh produce, dairy, and baked goods. Shelf space is also reserved for canned and packaged goods and for various non-food items such as kitchenware, household cleaners, pharmacy products and pet supplies.<br> Some supermarkets also sell other household products that are consumed regularly, such as alcohol (where permitted), medicine, and clothing, and some sell a much wider range of non-food products: DVDs, sporting equipment, board games, and seasonal items (e.g., Christmas wrapping paper in December).
+            
+            A larger full-service supermarket combined with a department store is sometimes known as a hypermarket. Other services may include those of banks, cafés, childcare centres/creches, insurance (and other financial services), mobile-phone services, photo processing,<br> video rentals, pharmacies, and petrol stations. If the eatery in a supermarket is substantial enough, the facility may be called a "grocerant", a blend of "grocery" and "restaurant".</p>
+            
+            <p>The traditional supermarket occupies a large amount of floor space, usually on a single level. It is usually situated near a residential area in order to be convenient to consumers. The basic appeal is the availability of a broad selection of goods under a single roof,<br> at relatively low prices. Other advantages include ease of parking and frequently the convenience of shopping hours that extend into the evening or even 24 hours of the day. Supermarkets usually allocate large budgets to advertising, typically through newspapers. They also present elaborate in-shop displays of products.<br>
+            
+            Supermarkets typically are chain stores, supplied by the distribution centers of their parent companies, thus increasing opportunities for economies of scale. Supermarkets usually offer products at relatively low prices by using their buying power to buy goods from manufacturers<br> at lower prices than smaller stores can. They also minimise financing costs by paying for goods at least 30 days after receipt and some extract credit terms of 90 days or more from vendors. Certain products (typically staple foods such as bread, milk and sugar) are very occasionally sold as loss leaders so as to attract shoppers to their store.<br> Supermarkets make up for their low margins by a high volume of sales, and with of higher-margin items bought by the attracted shoppers. Self-service with shopping carts (trolleys) or baskets reduces labor costs, and many supermarket chains are attempting further reduction by shifting to self-service check-out.</P>
+        <h4> <em> first online supermarket in cuddlore </em></h4>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQnlTJl5rDrxi4w2W7sQO2hniq3HN2uWkgaw&usqp=CAU" wridth="800px" height="500px" alt="your computer not supporting this image" >
+   <h2> SHOP NOW</h2>
+   <big>Don't miss this offer ,regester now !!!</big>
+   <form>
+   <div>
+   <label for="firstname">FIRST name</label>
+   <input type="text" name="firstname" required>
+
+   <label for="lastname"LAST name</label>
+   <input type="text" name="lastname" required>
+</div>
+<div>
+    <label>gender</label>
+    <label for="gender">male</label>
+    <input type="radio" name="gender" choise1>
+
+    <label for="gender">female</label>
+    <input type="radio" name="gender" choise2>
+
+    <label for="gender">other</label>
+    <input type="radio" name="gender" choise3>
+</div>
+<div>
+    <label> date of birth</label>
+    <select >
+        <option value="0" selected disabled>month</option>
+                <option  name="jan">january</option> 
+                <option name="feb" >febuary</option> 
+                <option name="march" >march</option> 
+                <option name="april" >april</option> 
+                <option name="may" >may</option> 
+                <option name="jume" >june</option> 
+                <option name="july" >july</option> 
+                <option name="august" >august</option> 
+                <option name="sep" >september</option> 
+                <option name="oct" >october</option> 
+                <option name="nov" >november</option> 
+                <option name="dec" >december</option>
+
+    </select>
+    <select>
+        <option  name="1">1</option> 
+                 <option name="2" >2</option> 
+                 <option name="3" >3</option> 
+                 <option name="4" >4</option> 
+                 <option name="5" >5</option> 
+                 <option name="6" >6</option> 
+                 <option name="7" >7</option> 
+                 <option name="8" >8</option> 
+                 <option name="9" >9</option> 
+                 <option name="11">10</option> 
+                 <option name="12">11</option> 
+                 <option name="13">13</option>
+                 <option name="14">14</option>
+                 <option name="15">15</option>
+                 <option name="16">16</option>
+                 <option name="17">17</option>
+                 <option name="18">18</option>
+                 <option name="19">19</option>
+                 <option name="20">20</option>
+                 <option name="21">21</option>
+                 <option name="22">22</option>
+                 <option name="23">23</option>
+                 <option name="24">24</option>
+                 <option name="25">25</option>
+                 <option name="26">26</option>
+                 <option name="27">27</option>
+                 <option name="28">28</option>
+                 <option name="29">29</option>
+                 <option name="30">30</option>
+                 <option name="31">31</option>
+
+    </select>
+    <select >
+        <option value="0" selected disabled>year</option>
+        <option name="1982">1982</option>
+        <option name="1983">1983</option>
+        <option name="1984">1984</option>
+        <option name="1985">1985</option>
+        <option name="1986">1986</option>
+        <option name="1987">1987</option>
+        <option name="1988">1988</option>
+        <option name="1989">1989</option> 
+        <option name="1990">1990</option> 
+        <option name="1991">1991</option> 
+        <option name="1992">1992</option> 
+        <option name="1993">1993</option> 
+        <option name="1994">1994</option> 
+        <option name="1995">1995</option> 
+        <option name="1996">1996</option> 
+        <option name="1997">19967</option> 
+        <option name="1998">1998</option> 
+        <option name="1999">1999</option> 
+        <option name="2000">2000</option>
+        <option name="2001">2001</option>
+        <option name="2002">2002</option>
+        <option name="2003">2003</option>
+        <option name="2004">2004</option>
+        <option name="2005">2005</option>
+        <option name="2006">2006</option>
+        <option name="2007">2007</option>
+        <option name="2008">2008</option>
+        <option name="2009">2009</option>
+        <option name="2010">2010</option>
+        <option name="2011">2011</option>
+        <option name="2012">2012</option>
+        <option name="2013">2013</option>
+        <option name="2014">2014</option>
+        <option name="2015">2015</option>
+        <option name="2016">2016</option>
+        <option name="2017">2017</option>
+        <option name="2018">2018</option>
+        <option name="2019">2019</option>
+        <option name="2020">2020</option>
+
+    </select>
+
+    </bodydiv>
+
+<div>
+    <label for="adress">adress</label>
+<input type="adress" name="adress" required placeholder="important">
+</div>
+<div>
+    <label for="phone">phone number +91</label>
+    <input type="tel" name="phone" required placeholder="important">
+</div>
+<img src="https://www.singlegrain.com/wp-content/uploads/2016/12/SG-11-Companies-That-Are-Doing-Mobile-Advertising-Right-1.jpg" alt="thanks for regester">
+<div>
+    <h4>Generate Your Terms & Conditions.</h4>
+    <p>
+        
+We create customized Terms & Conditions for web, Android & iOS app, Facebook app,<br> Twitter developer account, Squarespace, Blogger, Wordpress, Shopify and more.
+    </p>
+    <h4>Generate Terms & Conditions</h4>
+    <p>
+        With Termify you can easily generate and download your customized and up to date Terms & Conditions
+        <ul>
+            <li>Free Updates</li>
+            <li>Download Terms & Conditions (PDF, DOCX, TXT and HTML)</li>
+            <li>Edit and customize manually your policies</li>
+            <li>Termify.io hosts all your policies</li>
+        </ul>
+    </p>
+    <h4>Generate Terms & Conditions for websites</h4>
+    <p>
+        Creating a Terms & Conditions for your application or website can take a lot of time.<br> You could either spend tons of money on hiring a lawyer, or you could simply use our service and get a unique Terms & Conditions fully custumized to your website.</p>
+
+        <p>You can also generate your Terms & Conditions for website templates like:
+            <ol>
+                <li>Wix</li>
+                <li>Wordpress</li>
+                <li>Shopify</li>
+                <li>Squarespace </li>
+                <li>And many more</li>
+
+                
+
+            </ol>
+
+    </p>
+
+    </div>
+        
+
+    <label for="terms">I agree for all terms and conditions</label>
+    <input type="checkbox" name="terms" required >
+</div>
+<div>
+    <button type="submit">submit</button>
+</div>
+</form>
+<h2> <em> free and fast home develery </em> </h2>
+<div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUcqjVxcFanYaJ-BiN6vmdPmPDaF0FFGwM3g&usqp=CAU"wridth="500px" height="500px" alt="this image cannot support in your divice">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSKJ203MTSh_0sa9_O_7ZavO7psrSIVBakQA&usqp=CAU" writh="500px " height="500px"alt=" thish image cannot support in your divice">
+
+</div>
+<div>
+<h2> <em> THANKYOU FOR VISITING US</em></h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5qeGs2ZkUJIyp66PLY9l6AtWMQrcKKY2DFw&usqp=CAU "bridth="90000px" height="800px">
+
+</div>
+>
+   
+    </body>>
+</html>
