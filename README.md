@@ -56,7 +56,7 @@ All my *Data Science & Machine Learning projects* are documented with:
 - Code and implementation details
 
 📂 *Projects Repository:*  
-🔗 https://github.com/yourusername/data-science-projects
+🔗 [Data Science and Machine Learning](https://github.com/srinitish/Data-science-projects)
 
 ---
 
