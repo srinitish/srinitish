@@ -60,18 +60,6 @@ All my *Data Science & Machine Learning projects* are documented with:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" width="40%" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -85,10 +73,10 @@ All my *Data Science & Machine Learning projects* are documented with:
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/srinitishs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:ss.srinitish@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
