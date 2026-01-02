@@ -74,10 +74,11 @@ All my *Data Science & Machine Learning projects* are documented with:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srinitishs/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ss.srinitish@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
